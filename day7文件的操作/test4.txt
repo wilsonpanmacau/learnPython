@@ -1,0 +1,174 @@
+
+
+
+-----------------------------------------------九领科技常用IP---------------------------------------------------------------
+git账户：
+caimingliang@9lead.com   密码：scmm19891227
+禅道：
+192.168.0.254:88/zentao/user-login.html
+禅道的操作：（要先进入服务器的zbox目录）
+ 启动：start   停止：stop   重启：restart  安全设置：security    卸载 ：rm -rf zbox
+
+
+                                                                 数据综合管理系统(已经部署在公司服务器上面)
+后台数据逻辑
+http://192.168.0.240:3000                       新的网址 http://192.168.0.240/dics/index.html
+前台可视化系统
+http://192.168.0.240/index.html#/app            新的网址 http://192.168.0.240/index.html#/app
+
+ 
+接口列表页面
+http://192.168.0.240:3000/exchange/#
+swaggerUI
+http://192.168.0.240:9600/swagger-ui.html
+宜宾市的信息
+
+http://sjj.yb.gov.cn/content.jsp?classId=820702&newsId=437046
+http://sjj.yb.gov.cn/content.jsp?classId=820701&newsId=483063
+
+
+
+                             公安绩效考核管理平台（已经部署在阿里云服务器上面）
+
+泳道：
+
+https://www.leangoo.com/kanban/board/go/2141512# 
+
+测试网址：
+http://123.56.45.15:5000
+
+
+                              瑞商通银销售平台（已经部署在公司服务器和用户服务器上面）
+
+后台：
+http://192.168.0.245
+微信端：
+http://192.168.0.245/rosesun/
+
+注册验证码，支付密码验证码Linux命令：
+tail -f  /opt/rosesun/logs/rosesun-wechat.log
+
+用户真实服务器：
+后台：
+http://39.108.110.136
+微信端：
+39.108.110.136/rosesun/#/
+
+修改版
+后台
+http://192.168.0.245:8888
+微信端
+http://192.168.0.245:8888/rosesun/#/
+
+
+leangoo
+https://www.leangoo.com/kanban/board/go/2183763#
+
+                               边坡病害采集系统（部署在Windows系统上）
+启动服务器：
+http://localhost:8080/sdms/swagger-ui.html
+启动系统：
+http://192.168.0.245:8091
+用户名：administrator  密码：administrator
+
+阿里云外网个移动端匹配
+http://123.56.45.15:8091
+
+
+                                  聚合支付
+
+http://123.56.45.15/facilitator/#/ 
+
+  系统后台   admin  123456
+http://123.56.45.15/ 
+
+  商户后台  
+
+第二个版本（已经部署在用户的服务器上）：
+商户中心：http://www.smartnchange.com 
+后台：    http://www.smartnchange.com/facilitator/ 
+调试平台：http://www.smartnchange.com/#/api
+
+第三个版本：
+系统后台 
+http://192.168.0.245:18003/facilitator/
+商户后台
+http://192.168.0.245:18003/
+
+商户：
+
+
+【恒基致诚科技】尊敬的四川常乐投资管理有限公司，您好。您的账号为 A8333538107926514，密码为EfX4P6ft， 请勿泄露账号密码。
+【恒基致诚科技】尊敬的成都车联车赚科技有限公司，您好。您的账号为 A3196544975401118，密码为JkU4rbuO， 请勿泄露账号密码。
+【恒基致诚科技】尊敬的国信利安保险销售有限公司，您好。您的账号为 A1211350306568312，密码为H9e69xhr， 请勿泄露账号密码。
+
+
+
+合作方：
+【恒基致诚科技】尊敬的寻味，                    您好。您的账号为 A1280856700188416，密码为NqJGspEB， 请勿泄露账号密码。
+【恒基致诚科技】尊敬的成都恒基致诚科技有限公司，您好。您的账号为 A7971576051133511，密码为ZLIamu9f， 请勿泄露账号密码。
+【恒基致诚科技】尊敬的成都联橙科技有限公司，    您好。您的账号为 A4356679554019213，密码为Wbssgq7K， 请勿泄露账号密码。
+
+
+
+http://npm.taobao.org/mirrors/chromedriver/2.29/
+
+软件技术开发；技术推广、技术转让、技术咨询、技术服务；工程和技术研究与实验发展；计算机系统服务；基础软件服务、应用软件服务；
+软件开发；电子产品设计；电子产品开发；模型设计；市场信息咨询（不含投资咨询）；企业营销策划；教育咨询（不含出国留学及中介服务）；
+电路动画设计；设计、制作、代理、发布广告（不含气球广告）；销售、租赁日用品、电子产品、办公用品；图书、报纸、期刊零售及租赁（未取得相关行政许可（审批），不得开展经营活动）；
+企业形象设计；企业管理咨询；商务信息咨询（不含投资咨询），（依法须经批准的项目，经相关部门批准之后方可开展经营活动）。
+
+
+                                 电子档案管理系统
+项目：
+http://192.168.0.245 
+用户名：admin             密码：123456   
+
+数据库：            
+IP：192.168.0.245，端口：3306    账号：root，密码：sBtbGSMw
+
+sm5c7nM1Ee
+
+
+
+
+
+
+---------------------------------------------------文思海辉/新希望六和常用IP--------------------------------------------------
+
+
+我的GitHub的HTTPS地址：https://github.com/13980062889/my_repository.git
+
+
+
+测试工具集：http://172.16.10.216:88
+禅道：ID：caiml  PW：123456    请登录系统后修改密码
+LDAP（SVN、WIKI、VPN）  ID：caiml  PW：qy4pYo   请按照附件步骤修改密码
+一。项目：慧养猪
+web端测试环境1地址
+http://smartpig.breeds.com.cn:8000/#/login
+用户名：smartadmin      密码：1q2w3e
+
+原型图用户名：newhope 密码：newhope@1982
+
+
+  Jenkins发版
+
+  用户名:tongjc
+
+  密码：tongjc123
+
+
+
+APK
+uat下载：http://uatsmartsource.pigkeeping.cn/smart-app/smartPig.apk 
+
+线上：http://smartsource.pigkeeping.cn/smart-app/smartPig.apk
+
+线上的web端
+http://smart.pigkeeping.cn/#/login               tester  123456
+
+
+断奶标准出栏日龄：21；保育标准出栏日龄76；育肥标准出栏日龄172。
+
+
